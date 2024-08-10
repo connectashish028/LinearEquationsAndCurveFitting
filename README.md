@@ -1,4 +1,4 @@
-# Numerical Methods in Python
+# Linear Equations And Curve Fitting
 
 This repository contains a Jupyter Notebook exploring various numerical methods in Python, including:
 
